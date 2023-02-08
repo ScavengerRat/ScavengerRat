@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TraveLynx - Hotel Booking System**
 
-- 🌱 I’m currently learning **React.js**
+<!-- - 🌱 I’m currently learning **React.js** -->
 
 - 👨‍💻 All of my projects are available at [https://scavengerrat.github.io](https://scavengerrat.github.io)
 
