@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **React.js** -->
 
-- 👨‍💻 All of my projects are available at [https://scavengerrat.github.io](https://scavengerrat.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://scavengerrat.github.io](https://scavengerrat.github.io)  -->
 
 <p align="left">
 </p>
