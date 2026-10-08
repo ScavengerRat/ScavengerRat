@@ -37,7 +37,7 @@ I start from the user and the outcome, not the ticket. Every line of code has to
 <td width="33%" valign="top">
 
 #### 🛰️ Technical depth
-React, TypeScript and the whole frontend universe — deep enough to know when an agent is right and when it's hallucinating a wormhole.
+TypeScript & JavaScript fundamentals, how the frontend talks to the backend, and how an idea travels from discovery to production — deep enough to know when an agent is right and when it's hallucinating a wormhole.
 
 </td>
 <td width="33%" valign="top">
@@ -53,7 +53,7 @@ Claude Code & Codex as my crew. I architect, review and steer; they execute. Ide
 
 <img src="./assets/divider-stack.svg" width="100%" alt="Onboard systems" />
 
-<img src="./assets/constellation.svg" width="100%" alt="Tech constellation: Claude Code, Codex, React, TypeScript, JavaScript, Astro, Playwright, Vite" />
+<img src="./assets/systems.svg" width="100%" alt="Star systems of tools — Mission control: Jira, Confluence. Core languages: TypeScript, JavaScript. AI crew: Claude Code, Codex. Quality shield: Vitest, Jest, Testing Library, Playwright. Full orbit: UI, state, API, server and data request/response flow, plus the product lifecycle — discover, spec, build, test, ship, observe." />
 
 <img src="./assets/divider-contact.svg" width="100%" alt="Open a wormhole" />
 
